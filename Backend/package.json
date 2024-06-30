@@ -1,0 +1,24 @@
+{
+  "name": "cs-backend",
+  "version": "1.0.0",
+  "description": "Chemistry Sage Website",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "keywords": [
+    "chemistry",
+    "cbse",
+    "jee",
+    "neet",
+    "cuet"
+  ],
+  "author": "Ankur Dubey",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.3"
+  }
+}

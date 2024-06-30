@@ -1,4 +1,4 @@
-# Chemistry Sage
+# Chemistry Sage ( Currently Building)
 
 An educational website designed to provide quality learning resources for students.
 

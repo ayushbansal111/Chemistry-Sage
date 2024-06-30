@@ -25,9 +25,3 @@ An educational website designed to provide quality learning resources for studen
 
 - [Node.js](https://nodejs.org/) (version 14.x.x or higher)
 - [Git](https://git-scm.com/)
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/Anks2833/Project_ChemistrySage
-
